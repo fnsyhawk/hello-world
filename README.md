@@ -2,4 +2,4 @@
 This is my Hello World project
 
 Hello,
-My name is Bojan Sokolovic and I'm a system administrator in Ministry of interior of Serbia
+My name is Bojan Sokolovic and I'm an IT Specialist in Ministry of interior of Serbia
